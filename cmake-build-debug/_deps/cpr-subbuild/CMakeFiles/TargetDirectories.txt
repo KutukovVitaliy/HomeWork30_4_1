@@ -1,0 +1,3 @@
+/home/kvitadmin/CLionProjects/HomeWork30_4_1/cmake-build-debug/_deps/cpr-subbuild/CMakeFiles/rebuild_cache.dir
+/home/kvitadmin/CLionProjects/HomeWork30_4_1/cmake-build-debug/_deps/cpr-subbuild/CMakeFiles/edit_cache.dir
+/home/kvitadmin/CLionProjects/HomeWork30_4_1/cmake-build-debug/_deps/cpr-subbuild/CMakeFiles/cpr-populate.dir
